@@ -1,1 +1,1 @@
-# DuckDB
+# DuckDB and dbt working together
